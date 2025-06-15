@@ -41,5 +41,7 @@ public class baitap3 {
         String danhGia = xepLoai(dtb);
 
         System.out.println(danhGia);
+
+        System.out.println("Hello world");
     }
 }
