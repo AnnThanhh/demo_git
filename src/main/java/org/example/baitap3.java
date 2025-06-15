@@ -43,5 +43,7 @@ public class baitap3 {
         System.out.println(danhGia);
 
         System.out.println("Hello world");
+
+        System.out.println("Hello world 2");
     }
 }
